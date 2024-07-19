@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c7COJGFvn634eXA2Tsc0Ce2QFwUM+K4wpIFtJUMpD+xRoyKK/NTkQToW71p56s0QeMY2DNTBAqfa8jy2SyB6mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ybaja\\Downloads\\OneDrive\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
